@@ -1,2 +1,2 @@
-Hiii, wenn du Lust hast die Synchronisierung etc. zu testen, mach mit!
+Wenn du Lust hast Synchronisierung etc. zu testen, mach mit!
 einfach neuen Branch anlegen und los...
